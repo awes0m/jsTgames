@@ -53,6 +53,9 @@ function getReults(){
     if (computerChoice== 'somssers' && userChoice == 'rock') {
         result="You Win ! 😎"
     }
+    if (computerChoice== 'somssers' && userChoice == 'paper') {
+        result="you lost 😐"
+    }
     if (computerChoice== 'paper' && userChoice == 'rock') {
         result="you lost 😐"
     }
