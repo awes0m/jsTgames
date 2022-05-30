@@ -1,6 +1,6 @@
 {
-    "name": "sliding_puzzle",
-    "short_name": "sliding_puzzle",
+    "name": "sliderr",
+    "short_name": "sliderr",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
