@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
       timerStop();
-      resultDisplay.textContent = 'Congratulations 🎁! Completed in ' + (seconds+1) +' seconds'
+      resultDisplay.textContent = 'Congratulations 🎁! Completed in ' + (seconds+1) +' seconds'.toUpperCase()
     }
   }
 

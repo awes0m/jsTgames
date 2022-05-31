@@ -1,11 +1,14 @@
 #grid {
-    width: 400px;
-    height: 300px;
+    width: 410px;
+    height: 310px;
     display: flex;
     flex-wrap: wrap;
+    border: 5px solid black;
+    box-shadow: 5px 5px 10px black;
 
 }
 
 #seconds, #tens{
     font-size:2em;
+
   }
